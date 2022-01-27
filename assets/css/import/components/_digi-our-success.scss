@@ -1,0 +1,62 @@
+/*--------------------------------------------------------------
+# Our Success Stories
+--------------------------------------------------------------*/
+.success-stories{
+    background: url("../img/sucess-stores-bg.png") top right;
+    background-repeat: no-repeat;
+      background-origin: content-box;
+      background-position: right bottom;
+      background-size:915px;
+      p{@extend  %ellipsis5lines;}
+      label{
+        color:$secondary;
+        @extend %din-promedium;
+      }
+}
+.success-stories .swiper-button-next{
+  background: $primary;padding: 5px 22px;border-radius: 50%;bottom: -10%;top: inherit;
+  right: 0px;left: 58px;position: inherit;margin: 30px 0px;float: left;
+}
+.success-stories .swiper-button-next:hover{
+  background: $third;
+}
+.success-stories .swiper-button-prev{
+  background:$primary;padding:5px 22px;border-radius: 50%;bottom: -10%;top: inherit;
+  left: -43px;right: auto;position: inherit;margin: 30px 0px;float: left;
+}
+.success-stories .swiper-button-prev:hover{
+  background:$third;
+}
+.success-stories .swiper-button-next:after, .swiper-container-rtl .swiper-button-prev:after {
+  content: url('../img/icons/right-arrow-white-icon.svg');font-size: 20px;color: $white;
+}
+ .success-stories .swiper-button-next:hover:after, .swiper-container-rtl .swiper-button-prev:after {
+ content: url('../img/icons/right-blue-arrow-icon.svg');font-size: 20px;color: $white;
+}
+.success-stories .swiper-button-prev:after, .swiper-button-next:after {
+  content: url('../img/icons/left-arrow-white-icon.svg');font-size: 20px;color: $white;
+}
+.success-stories .swiper-button-prev:hover:after, .swiper-button-next:after {
+  content: url('../img/icons/left-blue-arrow-icon.svg');
+}
+.well-left{margin-top:31px;}
+.well-right img{width:72%;padding-top:0%; margin-left:10%;}
+.our-success-stories .well-left img{width:60px;}
+  
+  @media screen and (max-width: 640px) {
+    .single-well h2{text-align:center;}
+    .well-right {text-align:center;}
+    .well-right img{display:none;}
+    .well-left {margin-top:0px;text-align:center;}
+    .success-stories{background-size:650px;}
+    .success-stories .swiper-button-next{left:54%;}
+    .success-stories .swiper-button-prev{left:26%;}
+  }
+  @media screen and (max-width: 320px) {
+  .success-stories .swiper-button-next {
+    left: 57%;
+}
+.success-stories .swiper-button-prev {
+  left: 23%;
+}
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_57983" data-name="Rectangle 57983" width="80" height="80" transform="translate(7782 2089)" fill="#005671"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_7872" data-name="Mask Group 7872" transform="translate(-7782 -2089)" clip-path="url(#clip-path)">
+    <g id="noun_Video_2891362" transform="translate(7790 2089)">
+      <g id="Group_828" data-name="Group 828" transform="translate(0 0)">
+        <path id="Path_78864" data-name="Path 78864" d="M32.567,0A32.769,32.769,0,1,1,0,32.669,32.7,32.7,0,0,1,32.567,0Zm0,4.92A27.75,27.75,0,1,0,60.229,32.669,27.674,27.674,0,0,0,32.567,4.92Z" fill="#005671"/>
+        <path id="Path_78865" data-name="Path 78865" d="M33.6,26.481,21.346,19.428V33.72ZM20.232,13.3l19.3,11.137a2.428,2.428,0,0,1,0,4.084L20.418,39.66A2.325,2.325,0,0,1,16.705,37.8V15.344A2.372,2.372,0,0,1,20.232,13.3Z" transform="translate(7.639 5.649)" fill="#0097a6"/>
+        <path id="Path_78866" data-name="Path 78866" d="M4.088,56.241a2.417,2.417,0,1,1,0-4.826h8.259V49.745a2.561,2.561,0,0,1,5.113,0v1.671H61.9a2.414,2.414,0,0,1,0,4.826H17.46v1.671a2.561,2.561,0,0,1-5.113,0V56.241Z" transform="translate(0.51 19.503)" fill="#005671"/>
+      </g>
+    </g>
+  </g>
+</svg>

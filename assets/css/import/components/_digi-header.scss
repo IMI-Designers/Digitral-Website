@@ -1,0 +1,36 @@
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+#header {
+  background: rgba(0, 0, 0, 0.1);
+  transition:all 0.5s;z-index:997;height:70px;top:0px;
+}
+#header.header-scrolled{background: $white;top:0;height:60px;box-shadow: 0 5px 5px -5px #d5d5d5;}
+#header.header-scrolled .mobile-nav-toggle{color: $primary;}
+#header .logo {
+  font-size:$xxx-large;margin:0;padding:7px 0px;line-height:1;
+  font-weight:400;letter-spacing:2px;text-transform:uppercase;
+}
+#header{
+.logo a{color:$white;}
+.logo img{max-height:50px;width:80px;height:60px;}
+}
+#header.header-scrolled a{color:$secondary;}
+/*logos*/
+.weblogoimg{display:block;}
+.scroll-logoimg{display:none;}
+#header.header-scrolled .scroll-logoimg{display:block;padding-right:10px;width:80px;height:60px;}
+#header.header-scrolled .weblogoimg{display:none;}
+
+@media (max-width: 768px) {
+#header .logo{padding:7px;}
+}
+
+@media (max-width: 640px) {
+#header{
+  .logo img{width:auto;height:auto;}
+}
+#header.header-scrolled .scroll-logoimg{
+  width:auto;height:auto;
+}
+}

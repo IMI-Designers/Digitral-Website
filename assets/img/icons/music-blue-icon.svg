@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_57984" data-name="Rectangle 57984" width="80" height="80" transform="translate(7861.639 2088.639)" fill="#005671"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_7873" data-name="Mask Group 7873" transform="translate(-7861.639 -2088.639)" clip-path="url(#clip-path)">
+    <g id="noun_Music_4110898" transform="translate(7872.619 2089)">
+      <g id="Group_829" data-name="Group 829" transform="translate(0 0)">
+        <path id="Path_78867" data-name="Path 78867" d="M57.379.857H9.595A5.309,5.309,0,0,0,4.286,6.166V75.187A5.309,5.309,0,0,0,9.595,80.5H57.379a5.309,5.309,0,0,0,5.309-5.309V6.166A5.309,5.309,0,0,0,57.379.857Zm0,74.33H9.595V59.259H57.379Zm0-21.237H9.595V6.166H57.379Z" transform="translate(-4.286 -0.857)" fill="#005671"/>
+        <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="5" cy="5.5" rx="5" ry="5.5" transform="translate(24.021 60.639)" fill="#005671"/>
+        <path id="Path_78868" data-name="Path 78868" d="M36.54,6.6a2.655,2.655,0,0,0-3.557-1.168,9.5,9.5,0,0,1-8.229,0A2.655,2.655,0,0,0,20.9,7.792v11.1a7.353,7.353,0,0,0-2.655-.478,7.964,7.964,0,1,0,7.964,7.964V11.455a14.68,14.68,0,0,0,9.159-1.3A2.655,2.655,0,0,0,36.54,6.6ZM18.25,29.029A2.655,2.655,0,1,1,20.9,26.375,2.655,2.655,0,0,1,18.25,29.029Z" transform="translate(8.297 8.136)" fill="#0097a6"/>
+      </g>
+    </g>
+  </g>
+</svg>

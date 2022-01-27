@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="120" viewBox="0 0 140 120">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_57961" data-name="Rectangle 57961" width="98" height="98" transform="translate(5540 -405.404)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="cetin_logo" transform="translate(-5983 810)">
+    <rect id="Rectangle_58148" data-name="Rectangle 58148" width="140" height="120" transform="translate(5983 -810)" fill="none"/>
+    <g id="Mask_Group_7934" data-name="Mask Group 7934" transform="translate(464 -393.596)" clip-path="url(#clip-path)">
+      <g id="Symbols" transform="translate(5540 -364.966)">
+        <g id="elements_logo-color" data-name="elements/logo-color" transform="translate(0)">
+          <g id="Group">
+            <path id="Fill-251" d="M28.748,15.581V.335H39.471v3.1H32.465V6.32h6.623V9.27H32.465v3.165h7.412v3.146Z" transform="translate(6.402 0.075)" fill="#3f3e98" fill-rule="evenodd"/>
+            <path id="Fill-252" d="M51.308,3.478v12.1H47.456V3.478H42.95V.335H55.811V3.478Z" transform="translate(9.564 0.075)" fill="#3f3e98" fill-rule="evenodd"/>
+            <path id="Fill-253" d="M58.593,15.582h3.874V.333H58.593Z" transform="translate(13.048 0.074)" fill="#3f3e98" fill-rule="evenodd"/>
+            <path id="Fill-254" d="M78.272,15.581,71.853,5.61h-.068l.089,9.971H68.135V.335h4.393l6.4,9.948h.069L78.9.335h3.739V15.581Z" transform="translate(15.173 0.075)" fill="#3f3e98" fill-rule="evenodd"/>
+            <path id="Fill-255" d="M0,1.109H0V14.443L12.066,7.775Z" transform="translate(0 0.247)" fill="#ef4350" fill-rule="evenodd"/>
+            <path id="Fill-256" d="M24.286,11.132a4.153,4.153,0,0,1-3.379,1.553A4.44,4.44,0,0,1,16.38,8.01a4.509,4.509,0,0,1,4.6-4.674,3.943,3.943,0,0,1,3.222,1.4l2.614-2.5A8.168,8.168,0,0,0,20.841,0c-4.6,0-7.811,2.738-8.492,6.3l2.356,1.725L12.357,9.744c.713,3.325,3.524,6.321,8.415,6.321a8,8,0,0,0,6.2-2.52Z" transform="translate(2.75)" fill="#3f3e98" fill-rule="evenodd"/>
+            <path id="Fill-258" d="M12.376,19.121h1.23l1.149,3.141h.019l1.136-3.141h1.235v4.421h-.78V19.989h-.012l-1.342,3.554h-.55l-1.323-3.554h-.012v3.554h-.749Z" transform="translate(2.756 4.258)" fill="#3f3e98" fill-rule="evenodd"/>
+            <path id="Fill-259" d="M17.482,19.121h2.929v.687H18.269v1.124H20.3v.662H18.269v1.249h2.255v.7H17.482Z" transform="translate(3.893 4.258)" fill="#3f3e98" fill-rule="evenodd"/>
+            <path id="Fill-260" d="M21,19.121h1.23l1.148,3.141H23.4l1.136-3.141h1.237v4.421h-.781V19.989h-.014l-1.342,3.554H23.09l-1.325-3.554h-.012v3.554H21Z" transform="translate(4.677 4.258)" fill="#3f3e98" fill-rule="evenodd"/>
+            <path id="Fill-261" d="M26.9,22.881H27.6c.405,0,.987-.081.987-.662,0-.462-.319-.624-.955-.624H26.9Zm0-1.961h.7c.524,0,.806-.219.806-.6s-.282-.549-.875-.549H26.9Zm-.787-1.8h1.723c.669,0,1.356.306,1.356,1.111a.984.984,0,0,1-.768.968v.012a1.02,1.02,0,0,1,.955,1.043c0,.961-.837,1.286-1.673,1.286H26.11Z" transform="translate(5.814 4.258)" fill="#3f3e98" fill-rule="evenodd"/>
+            <path id="Fill-263" d="M29.821,19.121H32.75v.687H30.608v1.124h2.029v.662H30.608v1.249h2.254v.7H29.821Z" transform="translate(6.641 4.258)" fill="#3f3e98" fill-rule="evenodd"/>
+            <g id="Group-268" transform="translate(40.769 23.267)">
+              <path id="Fill-264" d="M1.462,2.241c.443,0,.95-.107.95-.644,0-.481-.476-.6-.881-.6H.819V2.241ZM.032.336H1.568C2.4.336,3.2.666,3.2,1.6A1.175,1.175,0,0,1,2.187,2.8l1.18,1.961h-.95L1.393,2.883H.819V4.757H.032Z" transform="translate(-0.032 -0.223)" fill="#3f3e98" fill-rule="evenodd"/>
+              <path id="Fill-266" d="M7.536,4.184A1.516,1.516,0,0,0,9.06,2.554a1.524,1.524,0,1,0-3.041,0,1.514,1.514,0,0,0,1.517,1.63M7.53.244a2.229,2.229,0,0,1,2.386,2.31A2.27,2.27,0,0,1,7.53,4.89,2.266,2.266,0,0,1,5.163,2.554,2.224,2.224,0,0,1,7.53.244" transform="translate(1.111 -0.244)" fill="#3f3e98" fill-rule="evenodd"/>
+            </g>
+            <path id="Fill-269" d="M43.392,19.121h2.853v.687H44.179v1.211h1.948v.663H44.179v1.861h-.787Z" transform="translate(9.663 4.258)" fill="#3f3e98" fill-rule="evenodd"/>
+            <g id="Group-274" transform="translate(59.191 23.379)">
+              <path id="Fill-270" d="M1.6,1.974c.512,0,.981-.125.981-.649S2.111.707,1.625.707H1.051V1.974ZM.263.045H1.706c1.01,0,1.666.356,1.666,1.28,0,.974-.78,1.311-1.716,1.311H1.051v1.83H.263Z" transform="translate(-0.263 -0.045)" fill="#3f3e98" fill-rule="evenodd"/>
+              <path id="Fill-272" d="M5.123,1.974c.512,0,.98-.125.98-.649S5.634.707,5.147.707H4.573V1.974ZM3.786.045H5.229C6.241.045,6.9.4,6.9,1.325c0,.974-.782,1.311-1.718,1.311H4.573v1.83H3.786Z" transform="translate(0.521 -0.045)" fill="#3f3e98" fill-rule="evenodd"/>
+            </g>
+            <path id="Fill-275" d="M55.457,19.121h2.853v.687H56.242v1.211h1.949v.663H56.242v1.861h-.786Z" transform="translate(12.349 4.258)" fill="#3f3e98" fill-rule="evenodd"/>
+            <g id="Group-286" transform="translate(73.73 23.267)">
+              <path id="Fill-276" d="M4.31,4.546a3.761,3.761,0,0,1-1.666.344A2.272,2.272,0,0,1,.227,2.554a2.249,2.249,0,0,1,2.4-2.31A2.538,2.538,0,0,1,4.305.8l-.543.588A1.57,1.57,0,0,0,2.63.937,1.517,1.517,0,0,0,1.094,2.554a1.516,1.516,0,0,0,1.574,1.63,2.274,2.274,0,0,0,.881-.156V2.9h-.93V2.254H4.31Z" transform="translate(-0.227 -0.244)" fill="#3f3e98" fill-rule="evenodd"/>
+              <path id="Fill-278" d="M6.185,2.241c.444,0,.95-.107.95-.644,0-.481-.474-.6-.881-.6H5.543V2.241ZM4.755.336H6.292c.83,0,1.63.33,1.63,1.268A1.176,1.176,0,0,1,6.91,2.8L8.09,4.757H7.141L6.117,2.883H5.543V4.757H4.755Z" transform="translate(0.781 -0.223)" fill="#3f3e98" fill-rule="evenodd"/>
+              <path id="Fill-280" d="M10.575,4.184A1.516,1.516,0,0,0,12.1,2.554a1.523,1.523,0,1,0-3.041,0,1.514,1.514,0,0,0,1.517,1.63M10.568.244a2.229,2.229,0,0,1,2.386,2.31A2.27,2.27,0,0,1,10.568,4.89,2.266,2.266,0,0,1,8.2,2.554,2.224,2.224,0,0,1,10.568.244" transform="translate(1.548 -0.244)" fill="#3f3e98" fill-rule="evenodd"/>
+              <path id="Fill-282" d="M16.648,3.133a1.677,1.677,0,0,1-1.78,1.736,1.677,1.677,0,0,1-1.781-1.736V.336h.788V3.1a1,1,0,1,0,1.986,0V.336h.787Z" transform="translate(2.636 -0.223)" fill="#3f3e98" fill-rule="evenodd"/>
+              <path id="Fill-284" d="M18.508,2.265c.512,0,.981-.125.981-.649S19.02,1,18.533,1h-.574V2.265ZM17.173.336h1.441c1.012,0,1.668.356,1.668,1.28,0,.974-.781,1.311-1.716,1.311h-.607v1.83h-.786Z" transform="translate(3.546 -0.223)" fill="#3f3e98" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

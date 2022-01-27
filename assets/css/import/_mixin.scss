@@ -1,0 +1,77 @@
+// Mixins btn
+@mixin typo10{
+    font-size:10px;
+}
+@mixin typo12{
+    font-size:12px;
+}
+@mixin typo14{
+    font-size:14px;
+}
+@mixin typo15{
+    font-size:15px;
+}
+@mixin typo16{
+    font-size:16px;
+}
+@mixin typo17{
+    font-size:17px;
+}
+@mixin typo18{
+    font-size:18px;
+}
+@mixin typo20{
+    font-size:20px;
+}
+@mixin typo35{
+    font-size:35px;
+}
+@mixin center{
+    margin-left: auto;
+    margin-right: auto
+}
+@mixin typo{
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+@mixin btnspan {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    line-height:35px;
+    min-width:160px;
+    justify-content:space-between;
+    align-items: center;
+}
+@mixin font-weight600 {
+    font-weight: 600; 
+}
+@mixin font-weight700 {
+    font-weight: 700;
+}
+@mixin anim($name,$value1,$value2){
+    @keyframes #{$name} {
+        from{
+            transform:$value1;
+        }
+        to{
+            transform: $value2;
+        }
+    }
+}
+@mixin remove_top_radius{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+@mixin digit-bg-right {
+    background: url(../img/background-bg.svg);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size:150px 150px;
+}
+@mixin digit-bg-left {
+    background: url(../img/products-services-bg.svg);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size:150px 150px;
+}

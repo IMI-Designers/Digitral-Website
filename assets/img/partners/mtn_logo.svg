@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="120" viewBox="0 0 140 120">
+  <g id="mtn_logo" transform="translate(-5663 811)">
+    <rect id="Rectangle_58148" data-name="Rectangle 58148" width="140" height="120" transform="translate(5663 -811)" fill="none"/>
+    <g id="Group_1448" data-name="Group 1448" transform="translate(-4865.9 -1364.892)">
+      <g id="g3757" transform="translate(10564.9 579.892)">
+        <g id="g3741" transform="translate(0 0)">
+          <path id="rect3739" d="M3.9,3.892h68v68H3.9Z" transform="translate(-3.9 -3.892)" fill="#ffcb05"/>
+        </g>
+        <g id="g3745" transform="translate(2.132 20.664)">
+          <path id="path3743" d="M69.9,38.974c0,7.258-14.268,13.142-31.866,13.142S6.164,46.233,6.164,38.974s14.268-13.138,31.87-13.138S69.9,31.716,69.9,38.974" transform="translate(-6.164 -25.836)" fill="#00678f"/>
+        </g>
+        <g id="g3755" transform="translate(13.583 27.147)">
+          <path id="polygon3747" d="M26.886,32.72v7.654l3.462-7.654h5.435L32.491,45.862H29.029L31,37.379l-4.117,8.483H24.091V37.379l-2.147,8.483h-3.62l3.3-13.142Z" transform="translate(-18.324 -32.72)" fill="#fff"/>
+          <path id="polygon3749" d="M42.279,44.908l-.5,1.831H38l.493-1.831Z" transform="translate(-19.471 -33.431)" fill="#ed1d24"/>
+          <path id="polygon3751" d="M54.081,32.72l1.65,6.991,1.808-6.991H61L57.705,45.862H54.081L52.27,38.709l-1.812,7.153H47L50.292,32.72Z" transform="translate(-19.996 -32.72)" fill="#fff"/>
+          <path id="polygon3753" d="M40.582,36.05l-1.865,7.221H42.5l1.868-7.221h3.458l.821-3.33H37.945l-.825,3.33Z" transform="translate(-19.42 -32.72)" fill="#ffcb05"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

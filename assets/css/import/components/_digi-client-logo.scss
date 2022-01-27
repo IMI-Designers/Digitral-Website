@@ -1,0 +1,81 @@
+.cliens img{transition:all 0.4s ease-in-out;display:inline-block;filter: grayscale(100);}
+.cliens img:hover{filter:none;transform:scale(1);}
+
+  @-webkit-keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(calc(-250px * 7));
+    }
+  }
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(calc(-250px * 7));
+    }
+  }
+  .logo-slider{margin:auto;overflow:hidden;position:relative;}
+  .logo-slider::before, .logo-slider::after{
+    background:linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);
+    content: "";height:100px;position:absolute;width:250px;z-index:2;
+  }
+  .logo-slider::after{right:0px;top:0px;transform: rotateZ(180deg);}
+  .logo-slider::before{left:0px;top:0px;}
+  .logo-slider .slide-track{
+    -webkit-animation: scroll 40s linear infinite;
+    animation:scroll 40s linear infinite;display:flex;width: calc(250px * 14);
+  }
+  .logo-slider .slide {
+    height:auto;width:185px;margin:0px 20px;text-align:right;
+  }
+  /*client logos*/
+  .airtel-logo{
+    svg{fill: #4169E1;}
+  }
+  .airtel-logo:hover{fill: #000;}
+  //client logo sizes
+  .bsnl-logo{height:60px;width:60px;}
+  .airtel-logo{height:60px;width:60px;}
+  .mtn-logo{height:70px;width:70px;}
+  .ooredoo-logo{height:60px;width:60px;}
+  .ncell-logo{height:70px;width:70px;}
+  .im3-ooredoo-logo{height:70px;width:70px;}
+  .tigo-log{height:60px;width:80px;}
+  .orange-logo{height:60px;width:60px;}
+  .dtac-logo{height:60px;width:110px;}
+  .cetin-group-logo{height:80px;width:auto;}
+  .slt_mobitel_logo{height:60px;width:140px;}
+  .grameenphone{height:60px;width:110px;}
+
+  @media screen and (max-width: 640px) {
+    .logo-slider .slide-track {
+      -webkit-animation: scroll 40s linear infinite;
+      animation: scroll 40s linear infinite;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      width: calc(140px * 14);
+  }
+  .logo-slider::before, .logo-slider::after {
+    background: -webkit-gradient(linear, left top, right top, from(white), to(rgba(255, 255, 255, 0)));
+    background: linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);
+    content:"";height:100px;position:absolute;width:100px;z-index:2;
+}
+//client logo sizes
+.bsnl-logo{height:50px;width:50px;}
+.airtel-logo{height:50px;width:50px;}
+.mtn-logo{height:60px;width:60px;}
+.ooredoo-logo{height:50px;width:50px;}
+.ncell-logo{height:60px;width:60px;}
+.im3-ooredoo-logo{height:60px;width:60px;}
+.tigo-log{height:50px;width:70px;}
+.orange-logo{height:50px;width:50px;}
+.dtac-logo{height:50px;width:100px;}
+.cetin-group-logo{height:80px;width:auto;}
+.slt_mobitel_logo{height:50px;width:130px;}
+.grameenphone{height:50px;width:100px;}
+}

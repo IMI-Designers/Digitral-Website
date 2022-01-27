@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="80" height="80" transform="translate(7542 2169.234)" fill="#00556f"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-7542 -2169.234)" clip-path="url(#clip-path)">
+    <g id="noun_Mobile_2329548" transform="translate(7556.71 2169)">
+      <path id="Path_1" data-name="Path 1" d="M58.487,92.4H30.3A11.944,11.944,0,0,1,18.37,80.475V24.094A11.944,11.944,0,0,1,30.3,12.167h28.19A11.944,11.944,0,0,1,70.414,24.094V80.475A11.944,11.944,0,0,1,58.487,92.4ZM30.3,17.859a6.306,6.306,0,0,0-6.234,6.234V80.475A6.306,6.306,0,0,0,30.3,86.709h28.19a6.306,6.306,0,0,0,6.234-6.234V24.094a6.306,6.306,0,0,0-6.234-6.234Z" transform="translate(-18.08 -11.933)" fill="#00556f"/>
+      <g id="Group_829" data-name="Group 829" transform="translate(1 1)">
+        <g id="Rectangle_57988" data-name="Rectangle 57988" transform="translate(8.29 12.234)" fill="#fff" stroke="#0097a6" stroke-width="2">
+          <rect width="14" height="14" rx="4" stroke="none"/>
+          <rect x="1" y="1" width="12" height="12" rx="3" fill="none"/>
+        </g>
+        <g id="Rectangle_57989" data-name="Rectangle 57989" transform="translate(28.29 12.234)" fill="#fff" stroke="#0097a6" stroke-width="2">
+          <rect width="14" height="14" rx="4" stroke="none"/>
+          <rect x="1" y="1" width="12" height="12" rx="3" fill="none"/>
+        </g>
+        <g id="Rectangle_57990" data-name="Rectangle 57990" transform="translate(8.29 32.234)" fill="#fff" stroke="#0097a6" stroke-width="2">
+          <rect width="14" height="14" rx="4" stroke="none"/>
+          <rect x="1" y="1" width="12" height="12" rx="3" fill="none"/>
+        </g>
+        <g id="Rectangle_57991" data-name="Rectangle 57991" transform="translate(28.29 32.234)" fill="#fff" stroke="#0097a6" stroke-width="2">
+          <rect width="14" height="14" rx="4" stroke="none"/>
+          <rect x="1" y="1" width="12" height="12" rx="3" fill="none"/>
+        </g>
+        <g id="Rectangle_57993" data-name="Rectangle 57993" transform="translate(8.29 51.234)" fill="#fff" stroke="#0097a6" stroke-width="2">
+          <rect width="14" height="14" rx="4" stroke="none"/>
+          <rect x="1" y="1" width="12" height="12" rx="3" fill="none"/>
+        </g>
+        <g id="Rectangle_57994" data-name="Rectangle 57994" transform="translate(28.29 51.234)" fill="#fff" stroke="#00556f" stroke-width="2">
+          <rect width="14" height="14" rx="7" stroke="none"/>
+          <rect x="1" y="1" width="12" height="12" rx="6" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

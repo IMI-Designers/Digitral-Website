@@ -1,0 +1,40 @@
+/*right side*/
+.bg-icon-lt-r {
+    @include digit-bg-right;
+    background-position: left 5% top 0%;
+}
+.bg-icon-lb-r {
+    @include digit-bg-right; 
+    background-position: left 5% bottom 0%;
+}
+.bg-icon-rt-r {
+    @include digit-bg-right;
+    background-position: right 5% top 0%;
+}
+.bg-icon-rb-r {
+    @include digit-bg-right;
+    background-position: right 5% bottom 0%;
+}
+
+/*left side*/
+.bg-icon-lt-l {
+    @include digit-bg-left;
+    background-position: left 5% top 0%;
+}
+.bg-icon-lb-l {
+    @include digit-bg-left;
+    background-position: left 5% bottom 0%;
+}
+.bg-icon-rt-l {
+    @include digit-bg-left;
+    background-position: right 5% top 0%;
+}
+.bg-icon-rb-l {
+    @include digit-bg-left;
+    background-position: right 5% bottom 0%;
+}
+
+//full-bgs
+.bg-skblu{background-color: #0097A6;}
+.bg-skblu-light{background-color: #F5FBFF;}
+.bg-grey-gradient{background:linear-gradient(to bottom right, #C8C8CA, #F5F5F5);}

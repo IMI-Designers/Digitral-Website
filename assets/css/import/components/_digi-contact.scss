@@ -1,0 +1,270 @@
+/*--------------------------------------------------------------
+# Contact
+--------------------------------------------------------------*/
+.contact {
+    position:relative;
+  .section-title{
+    text-align:center;
+    p {width:70%;margin:0 auto;text-align:center;}
+}
+  label{margin-bottom:5px;}
+  .contact:before {
+    content: "";
+    background:rgba(255, 255, 255, 0.7);position:absolute;bottom:0;top:0;left:0;right:0;
+  }
+  .container{position:relative;}
+  .info {
+    background-image:url("../img/background-bg2.svg");
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-position: left bottom;
+    background-color: $primary;
+    width: 100%;
+    padding:80px 70px 30px 70px;border-radius:0px;
+    text-align: center;
+  .dsocialicons{
+    width:80%;padding:50px 0px 95px 45px;margin:0 auto;
+    img{width:20px;height:20px;}
+  }
+  h2 {
+    font-size:$xxx-large;margin-bottom:5px;color:$white;
+    @include font-weight700;
+  }
+  h4 {
+    margin-bottom:5px;color:$white;
+    @include typo16;
+    @include font-weight700;
+  }
+  .address{
+    vertical-align:top;
+    p{min-height:85px;font-size:$medium;}
+   }
+  .address h3 {
+    @extend %section-subtitle;
+    margin-bottom:5px;color:$white;font-size:$large;
+  }
+  p {
+    margin-bottom:0px;color:$darkgray;
+  }
+}
+  .cont-icons{width:18px;margin-right:5px;}
+  .email{
+    p{
+      font-size:$small;
+    text-align: left;
+   a{color:$darkgray;
+  &:hover{color:$white;text-decoration:none;}
+  }
+}
+}
+.phone{
+    p{
+      text-align: left;
+   a{color:$darkgray;
+   &:hover{color:$white;text-decoration:none;}
+  }
+}
+}
+
+}
+#contact_form{width:95%;margin:20px auto 27px;}
+#contact_form span{color:#ed1c24;}
+
+  @-webkit-keyframes animate-loading {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes animate-loading {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  /*swiper slider*/
+  .contact .swiper-button-next{
+    background: #f2f2f2;
+      padding: 5px 22px;
+      border-radius: 50%;
+      bottom: 5%;
+      top: inherit;
+      right: 32%;
+      left: auto;
+      position: inherit;
+      float: right;
+      margin: 30px 0px;
+  }
+  .contact .swiper-button-next:hover{
+    background-color:$third;
+}
+.contact .swiper-button-next:hover:after, .swiper-button-prev:after {
+  content: url('../img/icons/right-arrow-white-icon.svg');
+  font-size: 25px;
+  color: $white;
+  height:20px;
+  width:20px;
+}
+
+.contact .swiper-button-prev{
+  background:$white;
+  padding:5px 22px;
+  border-radius: 50%;
+  bottom: -15%;
+  top: inherit;
+  left: 32%;
+  right: auto;
+  position: relative;
+  margin: 30px 0px;
+}
+.contact .swiper-button-prev:hover{
+  background:$third;
+}
+
+.contact .swiper-button-next:after, .swiper-button-prev:after {
+  content: url('../img/icons/right-blue-arrow-icon.svg');
+  font-size: 25px;
+  color: $white;
+}
+.contact .swiper-button-prev:after, .swiper-button-next:after {
+  content: url('../img/icons/left-blue-arrow-icon.svg');
+  font-size: 25px;
+  color: $white;
+}
+.contact .swiper-button-prev:hover:after, .swiper-button-next:after {
+  content: url('../img/icons/left-arrow-white-icon.svg');
+  font-size: 25px;
+  color: $white;
+}
+
+  .fb-icon{
+    a{border-radius:30px; padding:6px 8px 10px 8px;
+    &:hover{background:#0097A6;border-radius:30px;}
+  }
+  }
+  .tw-icon{
+    a{border-radius:30px; padding:8px 8px 10px 8px;
+    &:hover{background:#0097A6;border-radius:30px;}
+    }
+  }
+  .linkedin-icon{
+    a{border-radius:30px; padding:6px 8px 10px 8px;
+    &:hover{background:#0097A6;border-radius:30px;}
+  }
+  }
+  .youtube-icon{
+    a{border-radius:30px; padding:8px 8px 10px 8px;
+    &:hover{background:#0097A6;border-radius:30px;}
+    }
+  }
+  
+/*swiper slider products*/
+.contactprod .swiper-button-next{
+  background:$primary;
+    padding: 5px 22px;
+    border-radius: 50%;
+    bottom: 4%;
+    top: inherit;
+    right: 40%;
+    left: auto;
+    position: relative;
+    float: right;
+    margin: 27px 0px 0px 0px;
+}
+.contactprod .swiper-button-next:hover{
+  background-color:$white;
+}
+.contactprod .swiper-button-next:hover:after, .swiper-button-prev:after {
+content: url('../img/icons/right-blue-arrow-icon.svg');
+font-size: 25px;
+color: $third;
+}
+.contactprod .swiper-button-prev{
+background: $primary;
+padding:5px 22px;
+border-radius: 50%;
+bottom: 4%;
+top: inherit;
+left: 40%;
+right: auto;
+position: absolute;
+margin: -14px 0px;
+}
+.contactprod .swiper-button-prev:hover{
+background:$white;
+}
+.contactprod .swiper-button-next:after, .swiper-button-prev:after {
+content: url('../img/icons/right-arrow-white-icon.svg');
+font-size: 25px;
+color: $third;
+}
+.contactprod .swiper-button-prev:after, .swiper-button-next:after {
+content: url('../img/icons/left-arrow-white-icon.svg');
+font-size: 25px;
+color: $white;
+}
+.contactprod .swiper-button-prev:hover:after, .swiper-button-next:after {
+content: url('../img/icons/left-blue-arrow-icon.svg');
+font-size: 25px;
+color: $white;
+}
+
+@media screen and (max-width: 1024px) {
+  .contact .swiper-button-prev{left: 22%;}
+  .contact .swiper-button-next {right: 22%;}
+}
+
+@media screen and (max-width: 992px) {
+  .contactprod .swiper-button-next{right: 30%;}
+  .contact .swiper-button-prev {left: 39%;}
+  .contact .swiper-button-next {right: 39%;}
+}
+
+  @media screen and (max-width: 769px) {
+  .contact .swiper-button-prev{left: 40%;}
+  .contact .swiper-button-next {right: 40%;}
+  .contact{
+    button{margin:0 auto;}
+  }
+.contactprod .swiper-button-prev{display:none;}
+.contactprod .swiper-button-next{display:none;}
+}
+  @media screen and (max-width: 640px) {
+    .contact .swiper-button-prev{left:35%;}
+    .contact .swiper-button-next{right:35%;}
+    .contact .info .dsocialicons{width:80%;padding:50px 0px 95px 0px;}
+}
+/*  @media */
+  @media screen and (max-width: 426px) {
+    #contact_form{
+      margin:0px auto 20px;
+    .cont-btnrow{text-align:center;}
+    }
+    .contact {
+    .section-title p{width:100%;}
+    .info{
+      padding:40px 20px 40px 20px;margin-top:40px;
+      p{width:85%!important;}
+    }
+  }
+  .contact .swiper-button-prev{left:34%;}
+  .contact .swiper-button-next{right:34%;}
+  }
+  @media screen and (max-width: 360px) {
+  .contact{
+     .swiper-button-prev{left:33%;}
+     .swiper-button-next {right:33%;}
+  }
+  }
+  @media screen and (max-width: 320px) {
+    .contact{
+      .swiper-button-prev{left:30%;}
+      .swiper-button-next {right:30%;}
+   }
+  }
